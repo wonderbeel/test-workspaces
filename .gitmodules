@@ -1,0 +1,6 @@
+[submodule "vue2-starter"]
+	path = vue2-starter
+	url = git@github.com:wonderbeel/vue2-starter.git
+[submodule "vue3-starter"]
+	path = vue3-starter
+	url = git@github.com:wonderbeel/vue3-starter.git

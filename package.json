@@ -1,0 +1,8 @@
+{ 
+  "private": true,
+  "workspaces": ["vue2-starter", "vue3-starter"],
+  "scripts": {
+    "serve": "yarn workspace vue2-starter serve",
+    "serve-next": "yarn workspace vue3-starter dev"
+  }
+}
